@@ -1,0 +1,29 @@
+{
+  "name": "codetogive-team14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnishaOberoi/CodeToGive-Team14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnishaOberoi/CodeToGive-Team14/issues"
+  },
+  "homepage": "https://github.com/AnishaOberoi/CodeToGive-Team14#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "crypto-js": "^4.1.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "4.1",
+    "mongoose": "^7.2.2"
+  }
+}

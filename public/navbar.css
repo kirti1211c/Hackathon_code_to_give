@@ -1,0 +1,21 @@
+.navbar{
+	font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+}
+.navbar .navbar-brand img {
+    height: 50px;
+}
+.nav_top{
+	background-color: rgba(165, 42, 42, 0.347);;
+}
+
+h1, #advantages, #survey{
+    margin-top: 50px;
+    color: #620d0d;
+    font-weight: 1000;
+	
+}
+#points{
+	font-family: "Roboto Slab", serif;
+	font-size: 20px;
+}

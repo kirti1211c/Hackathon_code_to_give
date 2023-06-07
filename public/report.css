@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+button {
+    margin-bottom: 20px;
+}
+
+#header {
+    margin: 0%;
+}
+
+.survey-report {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.export-button {
+    display: flex;
+    justify-content: center;
+}
+
+.export-button button {
+    background-color: brown;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px; 
+}
+
+.export-button button:hover {
+    background-color: #555;
+}
